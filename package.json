@@ -5,7 +5,7 @@
   "description": "Solutions for Advent of Code 2017",
   "main": "index.js",
   "scripts": {
-    "dev": "mocha test/01/02/index.test.js"
+    "dev": "mocha test/02/01/index.test.js"
   },
   "engines": {
     "node": "8"
