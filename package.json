@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "mocha test/{**,**/*}/*.test.js",
-    "test": "mocha test/06/02/index.test.js"
+    "test": "mocha test/07/01/index.test.js"
   },
   "engines": {
     "node": "8"
